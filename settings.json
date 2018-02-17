@@ -1,0 +1,10 @@
+{
+    "go.gopath": "${workspaceRoot}",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.minimap.enabled": false,
+    "git.enabled": false,
+    "terminal.integrated.commandsToSkipShell": [],
+    "editor.fontSize": 15,
+    "background.enabled": false
+}
