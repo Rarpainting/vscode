@@ -4,7 +4,7 @@
     "vim.hlsearch": true,
     "vim.insertModeKeyBindings": [
         {
-            "before": ["j","j"],
+            "before": ["n","j"],
             "after": ["<Esc>"]
         }
     ],
