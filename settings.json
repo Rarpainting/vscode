@@ -1,4 +1,31 @@
 {
+    "extensions.ignoreRecommendations": true,
+    "go.gopath": "${workspaceRoot}",
+    "powermode.enabled": false,
+    "background.enabled": false,
+    "window.zoomLevel": 0,
+    "git.enabled": false,
+    "git.ignoreLegacyWarning": true,
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.sideBar.location": "left",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.panel.location": "right",
+    "workbench.editor.tabCloseButton": "off",
+    "terminal.integrated.shell.windows": "/usr/bin/fish",
+    "terminal.integrated.fontSize": 18,
+    "terminal.integrated.commandsToSkipShell": [
+    ],
+    "editor.fontSize": 18,
+    "editor.insertSpaces": false,
+    "editor.minimap.enabled": false,
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8CategorySeverity.E": "Warning",
     "vim.easymotion": true,
     "vim.useSystemClipboard": true,
     "vim.hlsearch": true,
@@ -27,13 +54,5 @@
     "vim.handleKeys": {
         "<C-a>": false,
         "<C-f>": false
-    },
-    "go.gopath": "${workspaceRoot}",
-    "workbench.colorTheme": "Visual Studio Dark",
-    "workbench.iconTheme": "vscode-icons",
-    "editor.minimap.enabled": false,
-    "git.enabled": false,
-    "terminal.integrated.commandsToSkipShell": [],
-    "editor.fontSize": 15,
-    "background.enabled": false
+    }
 }
